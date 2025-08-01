@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Results-driven Web Developer with over 2.6 years of experience in designing and developing high-performance web applications. Proficient in React.js, Next.js, Node.js, TypeScript, MongoDB, and JavaScript, with a strong foundation in frontend and backend development. Passionate about creating seamless user experiences and collaborating in agile development environments.
+Results-driven Web Developer with over 3+ years of experience in designing and developing high-performance web applications. Proficient in React.js, Next.js, Node.js, TypeScript, MongoDB, and JavaScript, with a strong foundation in frontend and backend development. Passionate about creating seamless user experiences and collaborating in agile development environments.
 
 <p align="center">
   <a href="mailto:Ashisheduims@gmail.com"><img src="https://img.shields.io/badge/Email-Ashisheduims%40gmail.com-blue?style=flat-square&logo=gmail"></a>
